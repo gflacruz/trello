@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+# the usual gitignore
+.env
+appwrite.ts
+
 # testing
 /coverage
 
